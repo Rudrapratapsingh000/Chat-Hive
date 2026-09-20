@@ -1,0 +1,23 @@
+# Compiled Java classes
+*.class
+
+# Maven build output
+target/
+r/
+
+# Maven wrapper repository cache
+.mvn/repository/
+
+# Logs
+*.out
+*.err
+*.log
+
+# IDE files
+.vscode/
+*.iml
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
